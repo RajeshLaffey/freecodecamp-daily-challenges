@@ -17,11 +17,11 @@ To determine whether the hypotenuse is an integer:
 `math.isqrt()` returns the integer portion of a square root without using floating-point arithmetic. By squaring the result and comparing it to the original value, the function avoids precision issues that can occur when using decimals.
 
 ## Testing
-The function is tested with a known example:
+The function was tested using two cases:
+- `(3, 4)` → `a² + b² = 25`, which results in an integer hypotenuse
+- `(3, 5)` → `a² + b² = 34`, which does not result in an integer hypotenuse
 
-- `(3, 5)` → `a² + b² = 34`, which does not have an integer square root
-
-The result is printed to visually confirm correctness.
+Printing the results provides a simple visual confirmation that the logic behaves as expected.
 
 ## Key Takeaway
-This challenge reinforces mathematical problem-solving in Python and demonstrates a reliable way to check for perfect squares using integer arithmetic instead of floating-point comparisons.
+This challenge reinforces applying mathematical formulas in Python and highlights the usefulness of integer-based operations when validating perfect squares.
