@@ -18,8 +18,8 @@ Each folder contains:
 - `notes.md` – a short explanation of the approach and key takeaways
 
 ## Progress
-- Day 001 – Array Swap
-- Day 002 - Integer Hypotenuse
+- Day 001 – Array Swap - *Completed*
+- Day 002 - Integer Hypotenuse - *Completed*
 
 ## Approach
 Solutions prioritize:
