@@ -14,7 +14,7 @@ Each day is stored in its own folder using the naming convention:
 - `solution-day###-<challenge-name>/`
 
 Each folder contains:
-- `solution###.py` – the final working solution
+- `solution.py` – the final working solution
 - `notes.md` – a short explanation of the approach and key takeaways
 
 ## Progress
