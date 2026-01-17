@@ -5,7 +5,3 @@ Given an array containing exactly two values, return a new array with the values
 
 ## Solution Overview
 The function unpacks the two values from the input array into separate variables, then returns a new array with their order reversed.
-
-```python
-a, b = arr
-arr = [b, a]
