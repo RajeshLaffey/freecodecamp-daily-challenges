@@ -1,4 +1,4 @@
-# Hex Color Validator (Python)
+# Day 03 - Hex Color Validator
 
 ## Overview
 This project implements a Python function that validates whether a given string is a valid **CSS hex color**. The solution follows standard CSS rules and demonstrates fundamental Python concepts such as string manipulation, conditionals, loops, and character validation.
