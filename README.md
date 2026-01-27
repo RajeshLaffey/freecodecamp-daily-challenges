@@ -20,6 +20,8 @@ Each folder contains:
 ## Progress
 - Day 001 – Array Swap - *Completed*
 - Day 002 - Integer Hypotenuse - *Completed*
+- Day 003 - Hex Validator - *Completed*
+- Day 004 - Build a Number Pattern Generator (Python Course Lab)
 
 ## Approach
 Solutions prioritize:
