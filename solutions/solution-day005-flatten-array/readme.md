@@ -7,8 +7,8 @@ This project implements a Python function that flattens an array containing nest
 Given an array that may contain nested arrays, return a new array with all values flattened into a single, one-dimensional array while retaining the original order of the elements.
 
 ### Example
-Input: [1, [2, 3], 4]
-Output: [1, 2, 3, 4]
+- Input: [1, [2, 3], 4]
+- Output: [1, 2, 3, 4]
 
 The function must correctly handle arrays nested to any depth.
 
