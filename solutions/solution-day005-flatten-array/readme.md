@@ -39,5 +39,4 @@ This approach ensures consistent handling of nested structures while maintaining
 - Recursion
 - Type checking with `isinstance`
 - List iteration
-- List merging using `extend`
 - Problem decomposition
