@@ -18,11 +18,14 @@ Each folder contains:
 - `notes.md` – a short explanation of the approach and key takeaways
 
 ## Progress
-- Day 001 – Array Swap - *Completed*
-- Day 002 - Integer Hypotenuse - *Completed*
-- Day 003 - Hex Validator - *Completed*
-- Day 004 - Build a Number Pattern Generator (Python Course Lab) - *Completed*
+- Day 001 – Array Swap
+- Day 002 - Integer Hypotenuse
+- Day 003 - Hex Validator 
+- Day 004 - Build a Number Pattern Generator (Python Course Lab)
 - Day 005 - Flatten the Array
+- Day 006 - 2026 Winter Games Day 3: Biathlon (Part 01)
+- Day 006 - 2026 Winter Games Day 2: Snowboarding (Part 02)
+- Day 006 - 2026 Winter Games Day 2: Snowboarding (Part 01)
 
 ## Approach
 Solutions prioritize:
