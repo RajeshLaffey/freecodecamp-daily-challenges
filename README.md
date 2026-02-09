@@ -25,7 +25,6 @@ Each folder contains:
 - Day 005 - Flatten the Array
 - Day 006 - 2026 Winter Games Day 3: Biathlon (Part 01)
 - Day 006 - 2026 Winter Games Day 2: Snowboarding (Part 02)
-- Day 006 - 2026 Winter Games Day 2: Snowboarding (Part 01)
 
 ## Approach
 Solutions prioritize:
