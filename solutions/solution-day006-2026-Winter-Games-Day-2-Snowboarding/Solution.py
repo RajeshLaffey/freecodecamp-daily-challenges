@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 '''
 Given a snowboarder's starting stance and a rotation in degrees, determine 
 their landing stance.
